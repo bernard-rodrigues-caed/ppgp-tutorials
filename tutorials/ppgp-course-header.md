@@ -28,4 +28,4 @@ Você vai perceber que o layout da primeira tela terá se ajustado à identidade
 
 Você pode editar à vontade o nome da sua disciplina nessa tela, sem precisar olhar mais para a edição em HTML.
 
-Feito isso, basta clicar em `Salvar mudanças` a seção principal da sua disciplina estará publicada.
+Feito isso, basta clicar em `Salvar mudanças` e o cabeçalho da sua disciplina estará publicado.
