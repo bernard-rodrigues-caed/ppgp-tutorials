@@ -6,3 +6,4 @@ O intuito dessa página é auxiliar as demais equipes da Assistência Acadêmica
 | -------- | ---- |
 | Cabeçalhos de Disciplinas | [Acesse](./tutorials/ppgp-course-header.md) |
 | Cabeçalhos das Quinzenas | [Acesse](./tutorials/ppgp-fortnight-header.md) |
+| Tópicos das Quinzenas | [Acesse](./tutorials/ppgp-fortnight-topic.md) |
