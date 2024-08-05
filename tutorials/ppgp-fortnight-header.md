@@ -27,7 +27,15 @@ Apague todo o texto contido nesta caixa e substitua pelo trecho de código a seg
     <h1>Nª quinzena</h1>
     <h2>Título da quinzena</h2>
 </div>
-<p>Rótulo da quinzena</p>
+<div class="ppgp-rotulo">
+    <div class="boas-vindas">
+        <h2>De 22/05 a 04/06</h2>
+        <div class="ppgp-divider"></div>
+        <div class="orientacao">
+            <p>Rótulo da quinzena</p>
+        </div>
+    </div>
+</div>
 ```
 
 Você pode substituir todo o conteúdo entre as duas *tags* `h1` e escrever ali a quinzena que está configurando. Entre as tags `h2`, o título da quinzena. Ou, caso não sinta segurança em escrever nessa tela, você pode clicar novamente em `</>`, no painel superior, e retornar para o modo clássico de edição.
