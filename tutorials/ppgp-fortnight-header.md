@@ -29,7 +29,7 @@ Apague todo o texto contido nesta caixa e substitua pelo trecho de código a seg
 </div>
 <div class="ppgp-rotulo">
     <div class="boas-vindas">
-        <h2>De 22/05 a 04/06</h2>
+        <h2>De XX/XX a XX/XX</h2>
         <div class="ppgp-divider"></div>
         <div class="orientacao">
             <p>Rótulo da quinzena</p>
